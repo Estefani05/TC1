@@ -1,0 +1,8 @@
+Lenguajes de programación
+II semestre 2024
+Estefani Valverde
+2021554564
+Tarea 1
+Fecha de entrega Domingo 11 de agosto
+g. Estatus de la entrega (debe ser CONGRUENTE con la solución entregada):
+[Deplorable|Regular|Buena|MuyBuena|Excelente|Superior]
